@@ -1,0 +1,21 @@
+{
+  "name": "com.twilio.segment",
+  "displayName": "Segment Analytics",
+  "description": "The leading Customer Data Platform.",
+  "author": "Twilio",
+  "contributors": [{
+    "name": "Skjalg S. Maehre"
+  }],
+  "version": "3.8.0",
+  "unity": "2019.3",
+  "keywords": [
+    "twilio",
+    "segment",
+    "analytics",
+    "events"
+  ],
+  "repository": {
+    "url": "git+https://github.com/statespacelabs/SegmentAnalyticsUnityPlugin.git",
+    "type": "git"
+  }
+}
