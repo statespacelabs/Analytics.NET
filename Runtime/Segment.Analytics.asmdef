@@ -7,8 +7,10 @@
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "SEGMENT_ENABLED"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
